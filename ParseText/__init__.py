@@ -46,7 +46,6 @@ def fetch_contact_info(tweet):
 
 
 def parse_tweet_url_from_body(request_body):
-    logging.info(request_body)
     regex = r"TWEET:(\n*\s*.*)\|\|\|\|\|\|\|\|\|?\|?\|?IMAGEURL:(.*)"
     matches = re.findall(regex, request_body, re.MULTILINE | re.IGNORECASE | re.DOTALL)
     return matches[0][0], matches[0][1]
