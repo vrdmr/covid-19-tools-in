@@ -1,0 +1,93 @@
+{
+    "center_id": 634384,
+    "name": "Kale PHC 1",
+    "state_name": "Maharashtra",
+    "district_name": "Kolhapur",
+    "block_name": "Panhala",
+    "pincode": 416205,
+    "lat": 16,
+    "long": 74,
+    "from": "09: 00: 00",
+    "to": "18: 00: 00",
+    "fee_type": "Free",
+    "sessions": [
+        {
+            "session_id": "1e094cf2-87b0-49f3-a158-40b858cf2d87",
+            "date": "05-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "",
+            "slots": [
+                "09: 00AM-11: 00AM",
+                "11: 00AM-01: 00PM",
+                "01: 00PM-03: 00PM",
+                "03: 00PM-06: 00PM"
+            ]
+        },
+        {
+            "session_id": "c24bae5d-5bf9-4287-a889-c41dfb13b2d8",
+            "date": "06-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "",
+            "slots": [
+                "09: 00AM-11: 00AM",
+                "11: 00AM-01: 00PM",
+                "01: 00PM-03: 00PM",
+                "03: 00PM-06: 00PM"
+            ]
+        },
+        {
+            "session_id": "ca487e48-0527-46e6-9dea-1cc86e59aada",
+            "date": "07-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "",
+            "slots": [
+                "09: 00AM-11: 00AM",
+                "11: 00AM-01: 00PM",
+                "01: 00PM-03: 00PM",
+                "03: 00PM-06: 00PM"
+            ]
+        },
+        {
+            "session_id": "a81e9d2c-7d00-490b-8161-497bc672bb0a",
+            "date": "08-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "",
+            "slots": [
+                "09: 00AM-11: 00AM",
+                "11: 00AM-01: 00PM",
+                "01: 00PM-03: 00PM",
+                "03: 00PM-06: 00PM"
+            ]
+        },
+        {
+            "session_id": "a49de019-6314-4d76-b342-6d43538dd3c9",
+            "date": "09-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "",
+            "slots": [
+                "09: 00AM-11: 00AM",
+                "11: 00AM-01: 00PM",
+                "01: 00PM-03: 00PM",
+                "03: 00PM-06: 00PM"
+            ]
+        },
+        {
+            "session_id": "c16f646c-f0ca-4f83-8f56-5929d38d2669",
+            "date": "10-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "",
+            "slots": [
+                "09: 00AM-11: 00AM",
+                "11: 00AM-01: 00PM",
+                "01: 00PM-03: 00PM",
+                "03: 00PM-06: 00PM"
+            ]
+        }
+    ]
+}
